@@ -1,5 +1,5 @@
 
-# LP-Escrit-rio-Advogados-
+# LP-Escritorio-Advogados
 
 
 ## 💻 Projeto
